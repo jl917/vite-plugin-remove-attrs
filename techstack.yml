@@ -1,0 +1,10 @@
+repo_name: jl917/vite-plugin-jsx-remove-attrs
+report_id: b8a214d881dedc8a2d14a25361a0e488
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-18T12:26:24+00:00'
+requested_by: semantic-release-bot
+provider: github
+branch: master
+detected_tools_count: 0
+tools: []
